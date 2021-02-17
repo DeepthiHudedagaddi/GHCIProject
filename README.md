@@ -1,5 +1,5 @@
 # GHCIProject
-GHCI
+
 Title: Exploratory Data Analysis on the World Bank Data
 
 Following steps are performed to achieve the given architecture.
